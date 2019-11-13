@@ -1,4 +1,4 @@
-# lejose
+# José Ramírez Palma
 Hola mundo!
 
 Esta es mi pagina web personal para ganarme ese puntito extra en introduccion.
